@@ -1,0 +1,9 @@
+.loz{
+border: 10px;   width: 300px; height: 300px;
+}
+.hi{
+    width: 300px;height: 300px;
+}
+.bo:hover{
+    background-color: cornflowerblue;
+}
